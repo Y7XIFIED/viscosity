@@ -1,6 +1,6 @@
 # Viscosity
 
-Live Deployment: [https://viscosity.vercel.app](https://viscosity.vercel.app)
+Live Deployment: [https://viscosity-three.vercel.app](https://viscosity-three.vercel.app)
 GitHub Repository: [https://github.com/Y7XIFIED/viscosity](https://github.com/Y7XIFIED/viscosity)
 
 ## Local Development
