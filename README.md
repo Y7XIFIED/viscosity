@@ -1,7 +1,7 @@
-# Fluid Text Animator
+# Viscosity
 
-Live Deployment: [https://fluid-text-animator.vercel.app](https://fluid-text-animator.vercel.app)
-GitHub Repository: [https://github.com/Y7XIFIED/fluid-text-animator](https://github.com/Y7XIFIED/fluid-text-animator)
+Live Deployment: [https://viscosity.vercel.app](https://viscosity.vercel.app)
+GitHub Repository: [https://github.com/Y7XIFIED/viscosity](https://github.com/Y7XIFIED/viscosity)
 
 ## Local Development
 1. Run `npm install`
