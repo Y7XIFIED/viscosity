@@ -1,10 +1,10 @@
-# Viscosity
+<h3 align="center"><b>VISCOSITY</b></h3>
 
-Live Deployment: [https://viscosity-three.vercel.app](https://viscosity-three.vercel.app)
-GitHub Repository: [https://github.com/Y7XIFIED/viscosity](https://github.com/Y7XIFIED/viscosity)
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-## Local Development
-1. Run `npm install`
-2. Run `npm run dev`
+Get ready to be amazed! This project is a beautiful web experiment pushing the boundaries of what is possible in the browser.
 
-Made by Y7XIFIED
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://viscosiiity.vercel.app](https://viscosiiity.vercel.app)
+
+<div align="center"><p>Y7XIFIED</p></div>
